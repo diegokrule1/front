@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mydomain.security.training</groupId>
 	<artifactId>front</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
